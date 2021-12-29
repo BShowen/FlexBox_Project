@@ -5,3 +5,5 @@ I was tasked with recreating [this](https://cdn.statically.io/gh/TheOdinProject/
 
 ## Skills learned during this project. 
 - Using FlexBox to layout a webpage. 
+
+### You can view my project by [clicking this link](https://bshowen.github.io/FlexBox_Project/)!
